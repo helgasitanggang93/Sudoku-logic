@@ -1,2 +1,1 @@
-# Sudoku-logic
-solving sudoku logic with javascript
+# sudoku-1
